@@ -1,45 +1,49 @@
-<h1 align="center">
-UI Clone - Github
-</h1>
-
-<p align="center">Responsive Github UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-clone-github.netlify.app/">here</a>.</p>
+<h1 align="center">UI Clone - Github</h1>
 
 <p align="center">
-  <a href="https://github.com/Rocketseat/youtube-clone-github/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-github?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-github?color=%236633cc&logo=mit" alt="License">
-  </a>
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5568f9&labelColor=111116">
 </p>
 
-<hr>
+# :camera_flash: Screenshots
 
-## Participants
+<div align="center">
+  <h2 align="center">Desktop</h2>
+  <img src=".github/" alt="Exemplo da interface no desktop" style="width: 100%;">  
+</div>
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+<div align="center">
+  <h2 align="center">Mobile</h2>
+  <img src=".github/" alt="Exemplo da interface no mobile" height="600px;">  
+</div>
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
+## :rocket: Tecnologias
 
-## Techs
+- [x] [Node.js]
+- [x] [Fetch API]()
+- [x] [React.js]()
+- [x] [Styled Components]()
+- [x] [TypeScript]()
 
-- [x] Fetch API
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+## :computer: Projeto
 
-## Ideas to implement
+UI clone do site github consumindo a API do própio github.
 
-- [ ] Use [SWR](https://swr.vercel.app/) as cache invalidation strategy
-- [ ] Fetch data from [GitHub V4 API](https://docs.github.com/en/graphql) (GraphQL instead of REST).
-- [ ] Create new routes with [React Router](https://reactrouter.com/web/guides/quick-start) (e.g. Github Feed, complete Repo page)
+## :arrow_down: Instalação
 
-## Starting Dev Environment
+- `git clone https://github.com/Rogerluiz0/clone-github.git`;
+- `cd clone-github`;
+- `npm install | yarn install`;
+- `npm start | start`.
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+## :thinking: Como contribuir
 
-## Contributing
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
