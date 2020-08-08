@@ -4,25 +4,13 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5568f9&labelColor=111116">
 </p>
 
-# :camera_flash: Screenshots
-
-<div align="center">
-  <h2 align="center">Desktop</h2>
-  <img src=".github/" alt="Exemplo da interface no desktop" style="width: 100%;">  
-</div>
-
-<div align="center">
-  <h2 align="center">Mobile</h2>
-  <img src=".github/" alt="Exemplo da interface no mobile" height="600px;">  
-</div>
-
 ## :rocket: Tecnologias
 
-- [x] [Node.js]
-- [x] [Fetch API]()
-- [x] [React.js]()
-- [x] [Styled Components]()
-- [x] [TypeScript]()
+- [x] [Node.js](https://nodejs.org/en/)
+- [x] [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
+- [x] [React.js](https://pt-br.reactjs.org/)
+- [x] [Styled Components](https://styled-components.com/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
 
 ## :computer: Projeto
 
