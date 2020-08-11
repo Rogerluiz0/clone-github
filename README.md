@@ -14,7 +14,7 @@
 
 ## :computer: Projeto
 
-UI clone do site github consumindo a API do própio github. clique [aqui] (https://bit.ly/github-clone) para ver o layout.
+UI clone do site github consumindo a API do própio github. clique [aqui](https://bit.ly/github-clone) para ver o layout.
 
 ## :arrow_down: Instalação
 
