@@ -21,7 +21,7 @@ UI clone do site github consumindo a API do própio github. clique [aqui](https:
 - `git clone https://github.com/Rogerluiz0/clone-github.git`;
 - `cd clone-github`;
 - `npm install | yarn install`;
-- `npm start | start`.
+- `npm start | yarn start`.
 
 ## :thinking: Como contribuir
 
