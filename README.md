@@ -14,14 +14,18 @@
 
 ## :computer: Projeto
 
-UI clone do site github consumindo a API do própio github. clique [aqui](https://roger-clone-github.netlify.app/) para ver o layout.
+UI clone da interface github consumindo a API oficial do github.
+
+## :bookmark: Layout
+
+Você pode visualizar o layout clicando [aqui](https://roger-clone-github.netlify.app/)
 
 ## :arrow_down: Instalação
 
 - `git clone https://github.com/Rogerluiz0/clone-github.git`;
 - `cd clone-github`;
-- `npm install | yarn install`;
-- `npm start | yarn start`.
+- `npm install`;
+- `npm start`.
 
 ## :thinking: Como contribuir
 
