@@ -4,6 +4,11 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5568f9&labelColor=111116">
 </p>
 
+## :gear: Requisítos
+
+- [X] [Node.js](https://nodejs.org/en/) ( Obrigatório )
+- [X] [GIT](https://git-scm.com/) ( Opcional )
+
 ## :rocket: Tecnologias
 
 - [x] [Node.js](https://nodejs.org/en/)
