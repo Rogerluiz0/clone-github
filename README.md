@@ -33,7 +33,7 @@ Você pode visualizar o layout clicando [aqui](https://roger-clone-github.netlif
 
 ## :arrow_down: Instalação
 
-- `git clone https://github.com/Rogerluiz0/clone-github.git`;
+- `git clone https://github.com/roger3g/clone-github.git`;
 - `cd clone-github`;
 - `npm install`;
 - `npm start`.
